@@ -1,0 +1,61 @@
+#images .inside .images-toolbar {
+  margin: -6px -12px 12px;
+  padding: 5px 12px;
+  background: #eeeeee;
+}
+#images .inside .images-grid .image {
+  float: left;
+}
+#images .inside .images-grid .image label {
+  font-style: italic;
+}
+#images .inside .images-grid .image input {
+  width: 100%;
+}
+#images .inside .images-grid .image .image-border {
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #eeeeee;
+}
+#images .inside .images-grid .image .image-thumbnail {
+  width: 100%;
+}
+#images .inside .images-grid .image .image-delete-button {
+  color: red;
+}
+#images .inside .images-grid .image .image-delete-button:hover {
+  cursor: pointer;
+}
+#images .inside .images-grid .image .image-group {
+  margin: 5px 0;
+}
+@media all and (min-width: 1280px) {
+  #images .inside .images-grid .image {
+    max-width: 25%;
+  }
+}
+@media all and (min-width: 1024px) and (max-width: 1280px) {
+  #images .inside .images-grid .image {
+    max-width: 33.3%;
+  }
+}
+@media all and (min-width: 850px) and (max-width: 1024px) {
+  #images .inside .images-grid .image {
+    max-width: 50%;
+  }
+}
+@media all and (min-width: 782px) and (max-width: 850px) {
+  #images .inside .images-grid .image {
+    max-width: 33.3%;
+  }
+}
+@media all and (min-width: 500px) and (max-width: 782px) {
+  #images .inside .images-grid .image {
+    max-width: 50%;
+  }
+}
+@media all and (max-width: 500px) {
+  #images .inside .images-grid .image {
+    max-width: 100%;
+  }
+}

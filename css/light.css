@@ -1,0 +1,8 @@
+.gallery-grid .gallery-image {
+  width: 25%;
+  float: left;
+}
+.gallery-grid .gallery-image .gallery-image-border {
+  margin: 10px;
+  text-align: center;
+}

@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gallery\n"
+"POT-Creation-Date: 2014-03-23 23:37+0100\n"
+"PO-Revision-Date: 2014-03-23 23:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: Stefan Boonstra <wordpress@stefanboonstra.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/GalleryPluginGallery.php:63
+msgid "Are you sure you want to delete this image?"
+msgstr "Weet u zeker dat u deze slide wilt verwijderen?"
+
+#: ../classes/GalleryPluginGallery.php:64
+msgid "Insert images"
+msgstr "Afbeeldingen invoegen"
+
+#: ../classes/GalleryPluginGallery.php:81
+#: ../classes/GalleryPluginGallery.php:83
+msgid "Galleries"
+msgstr "Gallerijen"
+
+#: ../classes/GalleryPluginGallery.php:82
+msgid "Gallery"
+msgstr "Gallerij"
+
+#: ../classes/GalleryPluginGallery.php:84
+msgid "Add New"
+msgstr "Nieuwe Toevoegen"
+
+#: ../classes/GalleryPluginGallery.php:85
+msgid "Add New Gallery"
+msgstr "Nieuwe Gallerij Toevoegen"
+
+#: ../classes/GalleryPluginGallery.php:86
+msgid "New Gallery"
+msgstr "Nieuwe Gallerij"
+
+#: ../classes/GalleryPluginGallery.php:87
+msgid "Edit Gallery"
+msgstr "Bewerk Gallerij"
+
+#: ../classes/GalleryPluginGallery.php:88
+msgid "View Gallery"
+msgstr "Bekijk Gallerij"
+
+#: ../classes/GalleryPluginGallery.php:89
+msgid "All Galleries"
+msgstr "Alle Gallerijen"
+
+#: ../classes/GalleryPluginGallery.php:90
+msgid "Search Galleries"
+msgstr "Zoek Gallerijen"
+
+#: ../classes/GalleryPluginGallery.php:91
+msgid "Parent Galleries:"
+msgstr "Bovenliggende Gallerijen:"
+
+#: ../classes/GalleryPluginGallery.php:92
+#: ../classes/GalleryPluginGallery.php:93
+msgid "No galleries found"
+msgstr "Geen gallerijen gevonden"
+
+#: ../classes/GalleryPluginGallery.php:100
+msgid "gallery"
+msgstr "gallerij"
+
+#: ../classes/GalleryPluginGallery.php:120
+msgid "Images"
+msgstr "Afbeeldingen"

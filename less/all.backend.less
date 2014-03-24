@@ -1,0 +1,69 @@
+@light-grey: #eee;
+@grey:       #ccc;
+
+#images
+{
+  .inside
+  {
+	.images-toolbar
+	{
+	  margin: -6px -12px 12px;
+	  padding: 5px 12px;
+
+	  background: @light-grey;
+	}
+
+	.images-grid
+	{
+	  .image
+	  {
+		float: left;
+
+		label
+		{
+		  font-style: italic;
+		}
+
+		input
+		{
+		  width: 100%;
+		}
+
+		.image-border
+		{
+		  margin: 5px;
+		  padding: 10px;
+
+		  border: 1px solid @light-grey;
+		}
+
+		.image-thumbnail
+		{
+		  width: 100%;
+		}
+
+		.image-delete-button
+		{
+		  color: red;
+
+		  &:hover
+		  {
+			cursor: pointer;
+		  }
+		}
+
+		.image-group
+		{
+		  margin: 5px 0;
+		}
+
+		@media all and (min-width: 1280px)                         { max-width: 25%; }
+		@media all and (min-width: 1024px) and (max-width: 1280px) { max-width: 33.3%; }
+		@media all and (min-width: 850px) and (max-width: 1024px)  { max-width: 50%; }
+		@media all and (min-width: 782px) and (max-width: 850px)   { max-width: 33.3%; }
+		@media all and (min-width: 500px) and (max-width: 782px)   { max-width: 50%; }
+		@media all and (max-width: 500px)                          { max-width: 100%; }
+	  }
+	}
+  }
+}
