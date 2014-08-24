@@ -1,8 +1,7 @@
 ﻿=== Gallery - Stefan Boonstra ===
 
 Contributors: stefanboonstra
-Donate link: http://stefanboonstra.com/donate-to-gallery/
-Tags:
+Tags: images, image, photo, gallery, galleries, jquery, javascript
 Requires at least: 3.8
 Tested up to: 3.8.1
 Stable tag: 1.0.0
