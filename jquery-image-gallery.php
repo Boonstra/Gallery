@@ -1,6 +1,6 @@
 <?php
 /*
- Plugin Name: Gallery
+ Plugin Name: Gallery - Stefan Boonstra
  Plugin URI: http://wordpress.org/extend/plugins/jquery-image-gallery/
  Description:
  Version: 1.0.0

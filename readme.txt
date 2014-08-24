@@ -1,4 +1,4 @@
-﻿=== Slideshow ===
+﻿=== Gallery - Stefan Boonstra ===
 
 Contributors: stefanboonstra
 Donate link: http://stefanboonstra.com/donate-to-gallery/
